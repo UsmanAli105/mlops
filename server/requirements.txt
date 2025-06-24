@@ -1,0 +1,13 @@
+torch==2.2.0
+torchvision==0.17.0
+python-multipart
+ultralytics
+numpy<2
+pandas
+pillow
+scikit-learn
+matplotlib
+tqdm
+editdistance
+uvicorn
+fastapi

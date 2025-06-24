@@ -1,0 +1,32 @@
+# Ignore compiled Python files
+__pycache__/
+*.py[cod]
+*.so
+
+# Ignore model files (large binaries)
+models/
+*.pth
+*.pt
+
+# Ignore environment files (if any)
+.env
+*.env
+
+# Ignore logs
+*.log
+
+# Ignore OS/system files
+.DS_Store
+Thumbs.db
+
+# Ignore backups or temp files
+*.bak
+*.swp
+*.tmp
+
+# Ignore IDE/editor settings
+.vscode/
+.idea/
+
+# Ignore Docker build artifacts
+*.tar
